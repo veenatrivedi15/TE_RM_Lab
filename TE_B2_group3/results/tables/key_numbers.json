@@ -1,0 +1,39 @@
+{
+  "n_rows": 11122,
+  "n_fac": 166,
+  "start": "2021-01-01",
+  "end": "2026-07-01",
+  "n_zero": 766,
+  "n_zero_fac": 66,
+  "repeat_share_overall": 0.07393209200438117,
+  "flag_share": {
+    "satellite": 0.8436,
+    "extrapolation (national)": 0.1037,
+    "extrapolation (plant)": 0.0527
+  },
+  "identity_max_rel_err": 4.792338612719166e-16,
+  "n_model": 9130,
+  "n_train": 6972,
+  "n_fit": 4980,
+  "n_val": 1992,
+  "n_test": 2158,
+  "train_range": "2021-12-01..2025-05-01",
+  "val_range": "2024-06-01..2025-05-01",
+  "test_range": "2025-06-01..2026-06-01",
+  "copy_share_all": 0.07393209200438117,
+  "copy_share_test": 0.06487488415199258,
+  "copy_share_train": 0.07673551348250143,
+  "best_fs": "D",
+  "validation_selected_model": "Random Forest",
+  "national_MAPE": {
+    "Random Forest": 2.1768348057774602,
+    "Persistence": 5.263900360271,
+    "Seasonal naive": 1.5467442229398078,
+    "Seasonal-ratio naive": 5.0250858120722155
+  },
+  "national_bias_pct": {
+    "Random Forest": 0.05088433162588188,
+    "Persistence": 0.24762381331395872
+  },
+  "cqr_qhat": 1869.9325257775793
+}

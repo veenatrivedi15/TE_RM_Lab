@@ -1,0 +1,8 @@
+{
+  "name": "co2-emission-forecasting-manuscript",
+  "private": true,
+  "description": "Optional DOCX renderer for the CO2 emissions forecasting manuscript",
+  "dependencies": {
+    "docx": "^9.10.0"
+  }
+}

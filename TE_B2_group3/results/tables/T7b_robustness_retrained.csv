@@ -1,0 +1,28 @@
+Variant,Model,n_test,MAE,RelMAE
+Feature set C (no seasonal lag),Persistence,2158,12206.539990074732,1.0
+Feature set C (no seasonal lag),Moving average (3),2158,13040.329661456606,1.068306798819308
+Feature set C (no seasonal lag),Seasonal naive,2158,12760.010887050881,1.0453421606307916
+Feature set C (no seasonal lag),Seasonal-ratio naive,2158,19186.380027982144,1.571811507895177
+Feature set C (no seasonal lag),Linear Regression,2158,11942.028654335547,0.9783303593029423
+Feature set C (no seasonal lag),Random Forest,2158,10626.22133620566,0.8705350856873407
+Feature set C (no seasonal lag),HistGradientBoosting,2158,10749.610896403214,0.8806435652645087
+Feature set C (no seasonal lag),RF on change,2158,10692.87175778413,0.8759953079643059
+Feature set C (no seasonal lag),HGB on change,2158,10590.602310620367,0.8676170576782363
+"Feature set D, train & test non-copied rows only",Persistence,2018,12556.376801820412,1.0
+"Feature set D, train & test non-copied rows only",Moving average (3),2018,13600.407441110165,1.0831474441845668
+"Feature set D, train & test non-copied rows only",Seasonal naive,2018,13645.244546211992,1.086718307484506
+"Feature set D, train & test non-copied rows only",Seasonal-ratio naive,2018,20259.039630553947,1.6134462950822575
+"Feature set D, train & test non-copied rows only",Linear Regression,2018,11318.445623608131,0.9014101601321166
+"Feature set D, train & test non-copied rows only",Random Forest,2018,10859.023572411314,0.8648214165440609
+"Feature set D, train & test non-copied rows only",HistGradientBoosting,2018,11088.492863992222,0.8830965364454993
+"Feature set D, train & test non-copied rows only",RF on change,2018,10942.938377497829,0.8715044594640814
+"Feature set D, train & test non-copied rows only",HGB on change,2018,11090.505675149356,0.8832568383533588
+"Feature set C, train & test non-copied rows only",Persistence,2018,12556.376801820412,1.0
+"Feature set C, train & test non-copied rows only",Moving average (3),2018,13600.407441110165,1.0831474441845668
+"Feature set C, train & test non-copied rows only",Seasonal naive,2018,13645.244546211992,1.086718307484506
+"Feature set C, train & test non-copied rows only",Seasonal-ratio naive,2018,20259.039630553947,1.6134462950822575
+"Feature set C, train & test non-copied rows only",Linear Regression,2018,12310.243788180122,0.9803977678015678
+"Feature set C, train & test non-copied rows only",Random Forest,2018,11168.245996587635,0.8894481404037249
+"Feature set C, train & test non-copied rows only",HistGradientBoosting,2018,11315.33265886743,0.9011622411034164
+"Feature set C, train & test non-copied rows only",RF on change,2018,11336.16881502532,0.9028216494253193
+"Feature set C, train & test non-copied rows only",HGB on change,2018,11348.520513989903,0.903805348716885

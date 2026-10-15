@@ -1,0 +1,18 @@
+{
+  "n_months": 13,
+  "r_level_total": 0.7791784143710053,
+  "p_level_total": 0.00169235908529015,
+  "spearman_level_total": 0.7362637362637362,
+  "r_level_perday": 0.7746894554298573,
+  "p_level_perday": 0.001872858870499475,
+  "r_diff": 0.6634255115719495,
+  "p_diff": 0.018671836341860235,
+  "mean_ici_yoy": 8.83846153846154,
+  "mean_ct_yoy": -0.05680867189099633,
+  "mean_ct_perday_yoy": -0.05680867189099633,
+  "mean_ct_activity_yoy": -0.13200606562218878,
+  "n_months_ct_yoy_below_ici": 13,
+  "ici_peak_to_trough": -0.27473806752037244,
+  "ct_peak_to_trough": -0.21643597189415653,
+  "ct_12m_to_Apr26_vs_prev_pct": 0.15952567819288443
+}
